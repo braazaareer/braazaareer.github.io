@@ -73,9 +73,9 @@ input[type="submit"]:hover {
 .back-to-home {
     color: #ffffff;
     text-decoration: none;
-    border: 1px solid #eaff00; /* Add border */
-    padding: 10px 20px; /* Adjust padding */
-    border-radius: 5px; /* Add border radius for square appearance */
+    border: 1px solid #eaff00; 
+    padding: 10px 20px;
+    border-radius: 5px; 
     transition: background-color 0.3s ease;
 }
 
