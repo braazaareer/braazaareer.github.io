@@ -24,7 +24,7 @@ header img {
 
 .header-content {
     text-align: center;
-    flex-grow: 0.7; /* Let the content take up remaining space */
+    flex-grow: 0.7; 
 }
 
 
@@ -74,7 +74,6 @@ footer a {
     margin-right: 5px;
 }
 
-/* Your existing styles */
 
 .contact-button {
     text-align: center;
